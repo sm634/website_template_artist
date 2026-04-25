@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 320" width="440" height="320">
+  <rect width="440" height="320" fill="#dde4ec"/>
+  <!-- Sky gradient suggestion -->
+  <rect width="440" height="180" fill="#c8d8e8" opacity="0.6"/>
+  <!-- Buildings / warehouses -->
+  <rect x="30"  y="110" width="70"  height="80" fill="#8a8a90" opacity="0.7"/>
+  <rect x="50"  y="100" width="35"  height="15" fill="#9a9aa0" opacity="0.6"/>
+  <rect x="110" y="120" width="55"  height="70" fill="#7a7a80" opacity="0.75"/>
+  <rect x="175" y="105" width="80"  height="85" fill="#9090a0" opacity="0.65"/>
+  <rect x="260" y="115" width="60"  height="75" fill="#808090" opacity="0.7"/>
+  <rect x="330" y="125" width="80"  height="65" fill="#8a8a9a" opacity="0.65"/>
+  <!-- Cranes / mast -->
+  <line x1="200" y1="80"  x2="200" y2="50"  stroke="#707080" stroke-width="1.5"/>
+  <line x1="200" y1="55"  x2="230" y2="60"  stroke="#707080" stroke-width="1"/>
+  <!-- Water / harbour -->
+  <rect x="0" y="190" width="440" height="130" fill="#b0c4d8" opacity="0.8"/>
+  <!-- Water ripples -->
+  <path d="M0 200 Q55 196 110 200 Q165 204 220 200 Q275 196 330 200 Q385 204 440 200" fill="none" stroke="#a0b4c8" stroke-width="0.7" opacity="0.6"/>
+  <path d="M0 215 Q55 211 110 215 Q165 219 220 215 Q275 211 330 215 Q385 219 440 215" fill="none" stroke="#a0b4c8" stroke-width="0.7" opacity="0.5"/>
+  <path d="M0 230 Q55 226 110 230 Q165 234 220 230 Q275 226 330 230 Q385 234 440 230" fill="none" stroke="#a0b4c8" stroke-width="0.7" opacity="0.4"/>
+  <!-- Reflections -->
+  <rect x="30"  y="195" width="70"  height="40" fill="#8a8a90" opacity="0.2"/>
+  <rect x="175" y="195" width="80"  height="45" fill="#9090a0" opacity="0.18"/>
+  <rect x="330" y="195" width="80"  height="35" fill="#8a8a9a" opacity="0.18"/>
+  <text x="220" y="314" font-family="Georgia, serif" font-size="10" fill="#607080" text-anchor="middle" opacity="0.6">Bristol Dockside, Evening — placeholder</text>
+</svg>

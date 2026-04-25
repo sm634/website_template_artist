@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 380" width="400" height="380">
+  <rect width="400" height="380" fill="#f5eee0"/>
+  <!-- Rosehip branch -->
+  <path d="M60 200 Q90 180 130 170 Q160 162 180 150" fill="none" stroke="#8a5a40" stroke-width="1.5"/>
+  <circle cx="95"  cy="182" r="12" fill="#c85a3a" opacity="0.85"/>
+  <circle cx="128" cy="172" r="10" fill="#c85a3a" opacity="0.8"/>
+  <circle cx="158" cy="162" r="9"  fill="#d06040" opacity="0.75"/>
+  <!-- Rosehip leaves -->
+  <path d="M95 170 Q88 160 82 155" fill="none" stroke="#6a8a40" stroke-width="1"/>
+  <path d="M128 162 Q122 150 118 144" fill="none" stroke="#6a8a40" stroke-width="1"/>
+  <!-- Holly sprig -->
+  <path d="M240 100 Q260 120 270 150 Q265 180 280 200" fill="none" stroke="#3a6a3a" stroke-width="1.5"/>
+  <ellipse cx="248" cy="112" rx="16" ry="10" fill="#3a6a3a" opacity="0.8" transform="rotate(-20 248 112)"/>
+  <ellipse cx="268" cy="140" rx="16" ry="10" fill="#3a6a3a" opacity="0.8" transform="rotate(10 268 140)"/>
+  <ellipse cx="272" cy="168" rx="16" ry="10" fill="#4a7a4a" opacity="0.75" transform="rotate(-5 272 168)"/>
+  <!-- Holly berries -->
+  <circle cx="264" cy="125" r="5" fill="#c83030" opacity="0.9"/>
+  <circle cx="270" cy="130" r="5" fill="#c83030" opacity="0.9"/>
+  <circle cx="258" cy="132" r="5" fill="#b82820" opacity="0.85"/>
+  <!-- Seed heads (stylised) -->
+  <circle cx="180" cy="280" r="18" fill="none" stroke="#a09060" stroke-width="0.8"/>
+  <line x1="180" y1="262" x2="180" y2="220" stroke="#9a8a60" stroke-width="1.2"/>
+  <line x1="165" y1="274" x2="180" y2="262" stroke="#a09060" stroke-width="0.7"/>
+  <line x1="195" y1="272" x2="180" y2="262" stroke="#a09060" stroke-width="0.7"/>
+  <circle cx="240" cy="270" r="14" fill="none" stroke="#a09060" stroke-width="0.8"/>
+  <line x1="240" y1="256" x2="240" y2="220" stroke="#9a8a60" stroke-width="1.2"/>
+  <!-- Scattered dots (texture) -->
+  <circle cx="140" cy="310" r="2" fill="#c0a070" opacity="0.5"/>
+  <circle cx="160" cy="320" r="1.5" fill="#c0a070" opacity="0.4"/>
+  <circle cx="200" cy="330" r="2" fill="#c0a070" opacity="0.5"/>
+  <circle cx="300" cy="290" r="2" fill="#c0a070" opacity="0.4"/>
+  <text x="200" y="372" font-family="Georgia, serif" font-size="10" fill="#9a8060" text-anchor="middle" opacity="0.6">Garden Notes — Autumn · placeholder</text>
+</svg>

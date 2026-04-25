@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400">
+  <rect width="300" height="400" fill="#f0ece8"/>
+  <!-- Stem -->
+  <line x1="150" y1="390" x2="150" y2="60" stroke="#9a8070" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Branches -->
+  <line x1="150" y1="300" x2="90" y2="250" stroke="#9a8070" stroke-width="1.2"/>
+  <line x1="150" y1="260" x2="210" y2="210" stroke="#9a8070" stroke-width="1.2"/>
+  <line x1="150" y1="210" x2="85"  y2="160" stroke="#9a8070" stroke-width="1.2"/>
+  <line x1="150" y1="175" x2="215" y2="130" stroke="#9a8070" stroke-width="1.2"/>
+  <line x1="150" y1="130" x2="100" y2="90"  stroke="#9a8070" stroke-width="1"/>
+  <!-- Seed pods (ellipses) -->
+  <ellipse cx="90"  cy="235" rx="24" ry="30" fill="none" stroke="#c0b0a0" stroke-width="1.2" opacity="0.8"/>
+  <ellipse cx="90"  cy="235" rx="16" ry="20" fill="#f5f0ec" stroke="#c0b0a0" stroke-width="0.8" opacity="0.6"/>
+  <ellipse cx="210" cy="195" rx="24" ry="30" fill="none" stroke="#c0b0a0" stroke-width="1.2" opacity="0.8"/>
+  <ellipse cx="210" cy="195" rx="16" ry="20" fill="#f5f0ec" stroke="#c0b0a0" stroke-width="0.8" opacity="0.6"/>
+  <ellipse cx="85"  cy="145" rx="22" ry="28" fill="none" stroke="#c0b0a0" stroke-width="1.2" opacity="0.8"/>
+  <ellipse cx="85"  cy="145" rx="14" ry="18" fill="#f5f0ec" stroke="#c0b0a0" stroke-width="0.8" opacity="0.6"/>
+  <ellipse cx="215" cy="115" rx="22" ry="28" fill="none" stroke="#c0b0a0" stroke-width="1.2" opacity="0.8"/>
+  <ellipse cx="215" cy="115" rx="14" ry="18" fill="#f5f0ec" stroke="#c0b0a0" stroke-width="0.8" opacity="0.6"/>
+  <ellipse cx="100" cy="78"  rx="18" ry="23" fill="none" stroke="#c0b0a0" stroke-width="1.2" opacity="0.7"/>
+  <ellipse cx="100" cy="78"  rx="12" ry="15" fill="#f5f0ec" stroke="#c0b0a0" stroke-width="0.8" opacity="0.5"/>
+  <!-- Centre lines on pods -->
+  <line x1="90" y1="205" x2="90" y2="265" stroke="#b0a090" stroke-width="0.6" opacity="0.5"/>
+  <line x1="210" y1="165" x2="210" y2="225" stroke="#b0a090" stroke-width="0.6" opacity="0.5"/>
+  <text x="150" y="396" font-family="Georgia, serif" font-size="10" fill="#9a8070" text-anchor="middle" opacity="0.6">Dried Honesty — placeholder</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="#f0ede8"/>
+  <circle cx="200" cy="200" r="175" fill="none" stroke="#7a9e6b" stroke-width="0.8"/>
+  <circle cx="200" cy="200" r="130" fill="none" stroke="#7a9e6b" stroke-width="0.5"/>
+  <circle cx="200" cy="200" r="80"  fill="none" stroke="#7a9e6b" stroke-width="0.5"/>
+  <circle cx="200" cy="200" r="35"  fill="none" stroke="#7a9e6b" stroke-width="0.8"/>
+  <!-- Petals x6 -->
+  <ellipse cx="200" cy="130" rx="26" ry="60" fill="#b8d4a8" opacity="0.4" stroke="#7a9e6b" stroke-width="0.8"/>
+  <ellipse cx="200" cy="130" rx="26" ry="60" fill="#b8d4a8" opacity="0.4" stroke="#7a9e6b" stroke-width="0.8" transform="rotate(60 200 200)"/>
+  <ellipse cx="200" cy="130" rx="26" ry="60" fill="#b8d4a8" opacity="0.4" stroke="#7a9e6b" stroke-width="0.8" transform="rotate(120 200 200)"/>
+  <ellipse cx="200" cy="130" rx="26" ry="60" fill="#b8d4a8" opacity="0.4" stroke="#7a9e6b" stroke-width="0.8" transform="rotate(180 200 200)"/>
+  <ellipse cx="200" cy="130" rx="26" ry="60" fill="#b8d4a8" opacity="0.4" stroke="#7a9e6b" stroke-width="0.8" transform="rotate(240 200 200)"/>
+  <ellipse cx="200" cy="130" rx="26" ry="60" fill="#b8d4a8" opacity="0.4" stroke="#7a9e6b" stroke-width="0.8" transform="rotate(300 200 200)"/>
+  <!-- Inner rose petals -->
+  <ellipse cx="200" cy="162" rx="12" ry="30" fill="#d4bfe8" opacity="0.35" stroke="#9b7eb0" stroke-width="0.6"/>
+  <ellipse cx="200" cy="162" rx="12" ry="30" fill="#d4bfe8" opacity="0.35" stroke="#9b7eb0" stroke-width="0.6" transform="rotate(60 200 200)"/>
+  <ellipse cx="200" cy="162" rx="12" ry="30" fill="#d4bfe8" opacity="0.35" stroke="#9b7eb0" stroke-width="0.6" transform="rotate(120 200 200)"/>
+  <ellipse cx="200" cy="162" rx="12" ry="30" fill="#d4bfe8" opacity="0.35" stroke="#9b7eb0" stroke-width="0.6" transform="rotate(180 200 200)"/>
+  <ellipse cx="200" cy="162" rx="12" ry="30" fill="#d4bfe8" opacity="0.35" stroke="#9b7eb0" stroke-width="0.6" transform="rotate(240 200 200)"/>
+  <ellipse cx="200" cy="162" rx="12" ry="30" fill="#d4bfe8" opacity="0.35" stroke="#9b7eb0" stroke-width="0.6" transform="rotate(300 200 200)"/>
+  <!-- Centre -->
+  <circle cx="200" cy="200" r="8" fill="#7a9e6b" opacity="0.7"/>
+  <text x="200" y="396" font-family="Georgia, serif" font-size="10" fill="#7a9e6b" text-anchor="middle" opacity="0.5">Sixfold: Sage — placeholder</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+  <rect width="300" height="300" fill="#f4f4f2"/>
+  <!-- Grid lines -->
+  <line x1="50"  y1="50"  x2="250" y2="50"  stroke="#c0c0bc" stroke-width="0.6"/>
+  <line x1="50"  y1="100" x2="250" y2="100" stroke="#c0c0bc" stroke-width="0.6"/>
+  <line x1="50"  y1="150" x2="250" y2="150" stroke="#c0c0bc" stroke-width="0.6"/>
+  <line x1="50"  y1="200" x2="250" y2="200" stroke="#c0c0bc" stroke-width="0.6"/>
+  <line x1="50"  y1="250" x2="250" y2="250" stroke="#c0c0bc" stroke-width="0.6"/>
+  <line x1="50"  y1="50"  x2="50"  y2="250" stroke="#c0c0bc" stroke-width="0.6"/>
+  <line x1="100" y1="50"  x2="100" y2="250" stroke="#c0c0bc" stroke-width="0.6"/>
+  <line x1="150" y1="50"  x2="150" y2="250" stroke="#c0c0bc" stroke-width="0.6"/>
+  <line x1="200" y1="50"  x2="200" y2="250" stroke="#c0c0bc" stroke-width="0.6"/>
+  <line x1="250" y1="50"  x2="250" y2="250" stroke="#c0c0bc" stroke-width="0.6"/>
+  <!-- Circle -->
+  <circle cx="150" cy="150" r="88" fill="none" stroke="#4a4a4a" stroke-width="1.5"/>
+  <circle cx="150" cy="150" r="60" fill="none" stroke="#4a4a4a" stroke-width="0.8" opacity="0.5"/>
+  <circle cx="150" cy="150" r="30" fill="#eeeeec" stroke="#4a4a4a" stroke-width="0.8" opacity="0.6"/>
+  <!-- Intersection dots -->
+  <circle cx="150" cy="62"  r="3" fill="#4a4a4a" opacity="0.7"/>
+  <circle cx="150" cy="238" r="3" fill="#4a4a4a" opacity="0.7"/>
+  <circle cx="62"  cy="150" r="3" fill="#4a4a4a" opacity="0.7"/>
+  <circle cx="238" cy="150" r="3" fill="#4a4a4a" opacity="0.7"/>
+  <!-- Centre -->
+  <circle cx="150" cy="150" r="4" fill="#4a4a4a" opacity="0.8"/>
+  <text x="150" y="292" font-family="Georgia, serif" font-size="10" fill="#6a6a6a" text-anchor="middle" opacity="0.5">Grid and Circle No. 2 — placeholder</text>
+</svg>
