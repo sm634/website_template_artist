@@ -85,4 +85,4 @@ export const themes: Record<ThemePreset, Theme> = {
 };
 
 // ---- Change this to switch the active theme ----
-export const activeTheme: ThemePreset = 'warmEarth';
+export const activeTheme: ThemePreset = 'naturalCalm';
