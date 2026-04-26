@@ -38,6 +38,11 @@ jobs:
           # Sets the base path to /<repo-name>/ so all asset URLs are correct on GitHub Pages.
           VITE_BASE_URL: /${{ github.event.repository.name }}/
 
+      - name: Add .nojekyll
+        # Prevents GitHub Pages from running Jekyll, which would strip files/folders
+        # starting with underscores (common in Vite build output).
+        run: touch dist/.nojekyll
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
